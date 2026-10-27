@@ -155,26 +155,6 @@ Each project includes the evaluation artifacts available for its implementation,
 
 Results are documented according to the actual execution outputs. Experimental, synthetic-data, proxy-based, and incomplete evaluations are identified separately rather than presented as verified production performance.
 
-## ▶️ How to Use This Repository
-
-1. Clone the repository:
-
-   ```bash
-   git clone <YOUR_GITHUB_REPOSITORY_URL>
-   cd Real-World-ML-GenAI-Problem-Statements
-   ```
-
-2. Open the folder for the problem statement you want to explore.
-
-3. Review its README, requirements file, and documentation.
-
-4. Open the provided Jupyter notebook in Google Colab or a compatible environment, or run the Python scripts according to the project's instructions.
-
-5. Install the dependencies required for that specific project.
-
-6. Review the available datasets, outputs, evaluation reports, and implementation notes.
-
-**Important:** Each project may have different dependency versions, hardware requirements, API requirements, and setup steps. Use its own instructions instead of assuming that one environment works for all ten projects.
 
 ## 🔐 Security & Data Handling
 
